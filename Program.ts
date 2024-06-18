@@ -16,3 +16,7 @@ class Person
 }
 let objPerson=new Person(21,"Divs");
 objPerson.display();
+
+let objPerson1=new Person(21,"Divs");
+objPerson1.display();
+

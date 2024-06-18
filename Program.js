@@ -10,3 +10,5 @@ var Person = /** @class */ (function () {
 }());
 var objPerson = new Person(21, "Divs");
 objPerson.display();
+var objPerson1 = new Person(21, "Divs");
+objPerson1.display();
